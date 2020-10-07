@@ -94,7 +94,7 @@ drawAll(qrcodePath) {
 	}, 200));
 }
 ```
-- [GitHub地址：](https://github.com/Jiji-Jiong/wxQRCode)
+- [GitHub地址：https://github.com/Jiji-Jiong/wxQRCode](https://github.com/Jiji-Jiong/wxQRCode)
 
 
 ### 方案2（只演示方案1，可做训练）
